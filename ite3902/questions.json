@@ -1,0 +1,20 @@
+{
+    "questions":[
+        {
+            "question": "test1",
+            "optionA": "t1",
+            "optionB": "t2",
+            "optionC": "t3",
+            "optionD": "t4",
+            "ans": "t1"
+        },
+        {
+            "question": "test2",
+            "optionA": "t2",
+            "optionB": "t4",
+            "optionC": "t6",
+            "optionD": "t8",
+            "ans": "t8"
+        }
+    ]
+}
