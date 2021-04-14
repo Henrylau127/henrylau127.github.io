@@ -1,20 +1,244 @@
 {
     "questions":[
         {
-            "question": "test1",
-            "optionA": "t1",
-            "optionB": "t2",
-            "optionC": "t3",
-            "optionD": "t4",
-            "ans": "t1"
+            "question": "A site of historic peace negotiations,the presidential retreat Camp David is located in what U.S. state?",
+            "option1": "Michigan",
+            "option2": "Maryland",
+            "option3": "Utah",
+            "option4": "New York",
+            "ans": "Maryland"
         },
         {
-            "question": "test2",
-            "optionA": "t2",
-            "optionB": "t4",
-            "optionC": "t6",
-            "optionD": "t8",
-            "ans": "t8"
+            "question": "A sign with the Spanish word 'salida' on it indicates what?",
+            "option1": "Salad",
+            "option2": "Entrance",
+            "option3": "Steam",
+            "option4": "Exit",
+            "ans": "Exit"
+        },
+        {
+            "question": "A tea cozy is commonly made out of what material?",
+            "option1": "Cardboard",
+            "option2": "Paper",
+            "option3": "Cloth",
+            "option4": "Plastic",
+            "ans": "Cloth" 
+        },        
+        {
+            "question": "A traditional food for the Japanese New Year,mochi is a cake primarily made of what ingredient?",
+            "option1": "Rice",
+            "option2": "Suger",
+            "option3": "Flovor",
+            "option4": "Glutinous rice",
+            "ans": "Rice" 
+        },
+        {
+            "question": "A Web site that no longer exists will often prompt the phrase 'Not Found' and what code number?",
+            "option1": "501",
+            "option2": "404",
+            "option3": "400",
+            "option4": "721",
+            "ans": "404"  
+        },
+        {
+            "question": "At CS:GO ESL One Cologne Major 2014 Semi Final, which player successfully defused a bomb while burning in fire? ",
+            "option1": "olofmeister",
+            "option2": "aizy",
+            "option3": "JW",
+            "option4": "flusha",
+            "ans": "Olofmeister"  
+        },
+        {
+            "question": "According to official lore, whose birth was greeted by a double rainbow over sacred Mt Paektu?",
+            "option1": "Kim Jong-un",
+            "option2": "Kim Yo-jong",
+            "option3": "Kim Jong-il",
+            "option4": "Kim Jong-name",
+            "ans": "Kim Jong-il"  
+        },
+        {
+            "question": "According to the actress, Nichelle Nichols only stayed on what TV series because Martin Luther King, Jr. told her to?",
+            "option1": "Star Trek",
+            "option2": "The Lieutenant",
+            "option3": "Tarzan",
+            "option4": "Insight",
+            "ans": "Star Trek"  
+        },
+        {
+            "question": "According to U.S. law, what 'should never be carried flat or horizontally,but always aloft and free'?",
+            "option1": "U.S. Navy Flag",
+            "option2": "U.S. Flag",
+            "option3": "U.S. Army Flag",
+            "option4": "U.S. Air Force Flag",
+            "ans": "U.S. Flag"  
+        },
+        {
+            "question": "Advertised as a 'Decision Engine',Bing is a Web Site most similar in function to which of the following?",
+            "option1": "Yahoo",
+            "option2": "Yandex",
+            "option3": "DuckDuckGo",
+            "option4": "Google",
+            "ans": "Google"  
+        },
+        {
+            "question": "After Russia, what is the largest country in the world by land area?",
+            "option1": "India",
+            "option2": "U.S",
+            "option3": "Canada",
+            "option4": "People's Republic of China",
+            "ans": "Canada"  
+        },
+        {
+            "question": "What was the first reusable spacecraft?",
+            "option1": "Crew Dragon",
+            "option2": "Boeing Starliner",
+            "option3": "Starship",
+            "option4": "Space Shuttle",
+            "ans": "Space Shuttle"  
+        },
+        {
+            "question": "Where does us airways flight 1549 landed?",
+            "option1": "Great South Bay",
+            "option2": "LaGuardia Airport",
+            "option3": "Seattle Tacoma International Airport",
+            "option4": "Hudson River",
+            "ans": "Hudson River"  
+        },
+        {
+            "question": "An iconic 1964 painting by Rene Magritte depicts a businessman in a bowler hat who face is obscured by a what?",
+            "option1": "WaterMelon",
+            "option2": "Lemon",
+            "option3": "Apple",
+            "option4": "Dog",
+            "ans": "Apple"  
+        },
+        {
+            "question": "Armbands are popular accessories for which of these tech gadgets?",
+            "option1": "iPhone",
+            "option2": "iPad",
+            "option3": "iPod",
+            "option4": "iMac",
+            "ans": "iPod"  
+        },
+        {
+            "question": "Which war was called 'The War to End all Wars but It ended nothing'?",
+            "option1": "World War II",
+            "option2": "World War I",
+            "option3": "Vietnam War",
+            "option4": "Cold War",
+            "ans": "World War I"  
+        },
+        {
+            "question": "As its name suggests, Wookieepedia is an online source of information about what sci-fi movie series?",
+            "option1": "Star Trek",
+            "option2": "Back To Future",
+            "option3": "2001 Space Odyssey",
+            "option4": "Star Wars",
+            "ans": "Star Wars"  
+        },
+        {
+            "question": "Who was the 45th president of the United State?",
+            "option1": "Joe Biden",
+            "option2": "Rock Johnson",
+            "option3": "Donald Trump",
+            "option4": "Hillary Clinton",
+            "ans": "Donald Trump" 
+        },
+        {
+            "question": "Basra is the chief port of which Persian Gulf country?",
+            "option1": "Iran",
+            "option2": "Iraq",
+            "option3": "Oman",
+            "option4": "UAE",
+            "ans": "Iraq" 
+        },
+        {
+            "question": "Basic Enlisted Submarine School is a training course offered by which branch of the U.S. military?",
+            "option1": "Navy",
+            "option2": "Army",
+            "option3": "Air Force",
+            "option4": "Space Force",
+            "ans": "Navy" 
+        },
+        {
+            "question": "What was the place that was used as the name of the R&D project of nuke by the US?",
+            "option1": "Los Alamos",
+            "option2": "Amber",
+            "option3": "Overton",
+            "option4": "Manhattan",
+            "ans": "Manhattan" 
+        },
+        {
+            "question": "Because it is sold in multiples of 64, computer RAM, or memory, is unavailable in which of these sizes?",
+            "option1": "878 MB",
+            "option2": "4 GB",
+            "option3": "32 GB",
+            "option4": "128 GB",
+            "ans": "878 MB" 
+        },
+        {
+            "question": "Because the American 'r' sound is rarely pronounced, in what country is Ronald McDonald called 'Donald McDonald'?",
+            "option1": "Taiwan",
+            "option2": "Thailand",
+            "option3": "Japan",
+            "option4": "Korea",
+            "ans": "Japan" 
+        },
+        {
+            "question": "Best known for their hazelnut-filled Baci chocolates, Perugina is a confectionery based in what country?",
+            "option1": "Italy",
+            "option2": "France",
+            "option3": "United Kingdom",
+            "option4": "Germany",
+            "ans": "Italy" 
+        },
+        {
+            "question": "Both 'gam' and 'pod' are terms used to describe what group of animals?",
+            "option1": "Penguins",
+            "option2": "Dolphins",
+            "option3": "Whales",
+            "option4": "Ants",
+            "ans": "Whales" 
+        },
+        {
+            "question": "Carrots are said to be good for the eyes because they enable the body to create what nutrient?",
+            "option1": "Calcium",
+            "option2": "Oxygen",
+            "option3": "Vitamin A",
+            "option4": "Omega 3",
+            "ans": "Vitamin A" 
+        },
+        {
+            "question": "Claiming it is her lucky number,what young singer writes '13' on the back of her hand before shows?",
+            "option1": "Noonie Bao",
+            "option2": "Rita Ora",
+            "option3": "Anne Marie",
+            "option4": "Taylor Swift",
+            "ans": "Taylor Swift" 
+        },
+        {
+            "question": "Commonly used in Central American cuisine, pernil is meat that comes from what animal?",
+            "option1": "Salmon",
+            "option2": "Pig",
+            "option3": "Goat",
+            "option4": "Cow",
+            "ans": "Pig" 
+        },
+        {
+            "question": "Deoxiribose, a main component of DNA, is a type of what?",
+            "option1": "Oxygen",
+            "option2": "Hydroxy",
+            "option3": "Hydrogen",
+            "option4": "Sugar",
+            "ans": "Sugar" 
+        },
+        {
+            "question": "During World War I,what country introduced a fleet of submarines known as 'U-boats'?",
+            "option1": "French Third Republic",
+            "option2": "United States",
+            "option3": "Germany",
+            "option4": "United Kingdom",
+            "ans": "Germany" 
         }
     ]
 }
