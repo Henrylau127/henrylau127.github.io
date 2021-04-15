@@ -1,7 +1,7 @@
 {
     "questions":[
         {
-            "question": "A site of historic peace negotiations,the presidential retreat Camp David is located in what U.S. state?",
+            "question": "A site of historic peace negotiations, the presidential retreat Camp David is located in what U.S. state?",
             "option1": "Michigan",
             "option2": "Maryland",
             "option3": "Utah",
@@ -25,7 +25,7 @@
             "ans": "Cloth" 
         },        
         {
-            "question": "A traditional food for the Japanese New Year,mochi is a cake primarily made of what ingredient?",
+            "question": "A traditional food for the Japanese New Year, mochi is a cake primarily made of what ingredient?",
             "option1": "Rice",
             "option2": "Suger",
             "option3": "Flovor",
@@ -41,19 +41,19 @@
             "ans": "404"  
         },
         {
-            "question": "At CS:GO ESL One Cologne Major 2014 Semi Final, which player successfully defused a bomb while burning in fire? ",
+            "question": "At CS:GO ESL One Cologne 2014 Semi Final, which player successfully defused a bomb while burning in fire?",
             "option1": "olofmeister",
             "option2": "aizy",
             "option3": "JW",
             "option4": "flusha",
-            "ans": "Olofmeister"  
+            "ans": "olofmeister"  
         },
         {
             "question": "According to official lore, whose birth was greeted by a double rainbow over sacred Mt Paektu?",
             "option1": "Kim Jong-un",
             "option2": "Kim Yo-jong",
             "option3": "Kim Jong-il",
-            "option4": "Kim Jong-name",
+            "option4": "Kim Jong-nam",
             "ans": "Kim Jong-il"  
         },
         {
@@ -65,7 +65,7 @@
             "ans": "Star Trek"  
         },
         {
-            "question": "According to U.S. law, what 'should never be carried flat or horizontally,but always aloft and free'?",
+            "question": "According to U.S. law, what should never be carried flat or horizontally, but always aloft and free?",
             "option1": "U.S. Navy Flag",
             "option2": "U.S. Flag",
             "option3": "U.S. Army Flag",
@@ -73,7 +73,7 @@
             "ans": "U.S. Flag"  
         },
         {
-            "question": "Advertised as a 'Decision Engine',Bing is a Web Site most similar in function to which of the following?",
+            "question": "Advertised as a 'Decision Engine', Bing is a Web Site most similar in function to which of the following?",
             "option1": "Yahoo",
             "option2": "Yandex",
             "option3": "DuckDuckGo",
@@ -121,7 +121,7 @@
             "ans": "iPod"  
         },
         {
-            "question": "Which war was called 'The War to End all Wars but It ended nothing'?",
+            "question": "Which war was called 'The War to End all Wars but It ended nothing' in BattleField 1 campaign mission 'Storm of Steel'?",
             "option1": "World War II",
             "option2": "World War I",
             "option3": "Vietnam War",
@@ -203,13 +203,13 @@
         {
             "question": "Carrots are said to be good for the eyes because they enable the body to create what nutrient?",
             "option1": "Calcium",
-            "option2": "Oxygen",
+            "option2": "Lipids",
             "option3": "Vitamin A",
             "option4": "Omega 3",
             "ans": "Vitamin A" 
         },
         {
-            "question": "Claiming it is her lucky number,what young singer writes '13' on the back of her hand before shows?",
+            "question": "Claiming it is her lucky number, what young singer writes '13' on the back of her hand before shows?",
             "option1": "Noonie Bao",
             "option2": "Rita Ora",
             "option3": "Anne Marie",
@@ -227,14 +227,14 @@
         {
             "question": "Deoxiribose, a main component of DNA, is a type of what?",
             "option1": "Oxygen",
-            "option2": "Hydroxy",
+            "option2": "Carbon",
             "option3": "Hydrogen",
             "option4": "Sugar",
             "ans": "Sugar" 
         },
         {
-            "question": "During World War I,what country introduced a fleet of submarines known as 'U-boats'?",
-            "option1": "French Third Republic",
+            "question": "During World War I, what country introduced a fleet of submarines known as 'U-boats'?",
+            "option1": "French",
             "option2": "United States",
             "option3": "Germany",
             "option4": "United Kingdom",
