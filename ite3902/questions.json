@@ -240,5 +240,75 @@
             "option4": "United Kingdom",
             "ans": "Germany" 
         }
+    ], 
+    "randomResponse": [
+        {
+            "1": "It must be A! Gotta be it!"
+        },
+        {
+            "2": "It must be B! Gotta be it!"
+        },
+        {
+            "3": "It must be C! Gotta be it!"
+        },
+        {
+            "4": "It must be D! Gotta be it!"
+        },
+        {
+            "5": "I donno, I guess is A?"
+        },
+        {
+            "6": "I donno, I guess is B?"
+        },
+        {
+            "7": "I donno, I guess is C?"
+        },
+        {
+            "8": "I donno, I guess is D?"
+        },
+        {
+            "9": "It should be A."
+        },
+        {
+            "10": "It should be B."
+        },
+        {
+            "11": "It should be C."
+        },
+        {
+            "12": "It should be D."
+        }
+    ],
+    "beforeRandomResponse": [
+        {
+            "1": "Hummm..."
+        },
+        {
+            "2": "Errr...."
+        },
+        {
+            "3": "Huh....."
+        },
+        {
+            "4": "Let's see...."
+        },
+        {
+            "5": "Give me a Second...."
+        },
+        {
+            "6": "One moment please...."
+        },
+        {
+            "7": "........."
+        },
+        {
+            "8": "That's tricky, give me a sec..."
+        },
+        {
+            "9": "About that......"
+        },
+        {
+            "10": "Interesting question....."
+        }
     ]
 }
