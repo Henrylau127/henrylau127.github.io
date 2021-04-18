@@ -99,8 +99,8 @@
         {
             "question": "Where does us airways flight 1549 landed?",
             "option1": "Great South Bay",
-            "option2": "LaGuardia Airport",
-            "option3": "Seattle Tacoma International Airport",
+            "option2": "East River",
+            "option3": "LaGuardia Airport",
             "option4": "Hudson River",
             "ans": "Hudson River"  
         },
